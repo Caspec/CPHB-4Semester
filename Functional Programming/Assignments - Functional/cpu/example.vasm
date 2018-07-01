@@ -1,0 +1,11 @@
+MAIN:  MOV 3 A
+	   PUSH A
+	   MOV 7 B
+	   PUSH B
+	   MUL
+	   ALWAYS
+	   CALL JEFF
+	   HALT
+JEFF:  ADD
+	   MOV A +2
+	   RTN +1

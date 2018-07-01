@@ -1,0 +1,2 @@
+http://localhost:8084/elmserver/api/elm/counter
+http://localhost:8084/elmserver/api/elm/counter/1
